@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T05:20:52.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="2Zej6ZUVhwaHFWoFFHaP" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-17T07:45:10.358Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="XfWNg9Qf3FOyAFdrffzA" version="13.9.9" type="github">
   <diagram id="rgQWCEvg1JA4o74-iTJb" name="Page-1">
-    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,7 +127,7 @@
         <mxCell id="CysU0X-Y_s4nkYIYZkuV-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="CysU0X-Y_s4nkYIYZkuV-4" source="CysU0X-Y_s4nkYIYZkuV-116" target="CysU0X-Y_s4nkYIYZkuV-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CysU0X-Y_s4nkYIYZkuV-116" value="同步到网红墙&amp;amp;主页" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="CysU0X-Y_s4nkYIYZkuV-4" vertex="1">
+        <mxCell id="CysU0X-Y_s4nkYIYZkuV-116" value="取消同步网红墙&amp;amp;主页" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="CysU0X-Y_s4nkYIYZkuV-4" vertex="1">
           <mxGeometry x="30" y="590" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CysU0X-Y_s4nkYIYZkuV-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="CysU0X-Y_s4nkYIYZkuV-4" source="CysU0X-Y_s4nkYIYZkuV-97" target="CysU0X-Y_s4nkYIYZkuV-103" edge="1">
